@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @opadejiopakunle
-- 👀 I’m interested in ...Python/ML/AI
+- 👀 I’m interested in ...SQL/Python/ML/AI
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Applications of Machine Learning to Markets
 - 📫 How to reach me ...@dag_naiser (Twitter)
